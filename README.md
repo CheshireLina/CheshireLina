@@ -18,5 +18,3 @@ I've got a bunch of pinned projects, but my favorite is [Название тво
 ---
 
 *Feel free to reach out if you want to chat about code, games, or Wonderland logic!*
-
-<img width="640" height="640" alt="изображение" src="https://github.com/user-attachments/assets/16a4ed7d-c5fa-4d25-892b-411906f79a63" />
