@@ -4,10 +4,6 @@ I'm Lina, a teacher who codes (and occasionally breaks things).
 
 I teach programming, but I also love building things and diving into new tech when I have the time. 
 
-If I'm not explaining code to students, chances are I'm reading fantasy, deep into a manga.
-
-My main tools are Laravel, a solid IDE, and an endless supply of coffee. My favorite "stack" is a good book and a cozy chair.
-
 I've got a bunch of pinned projects, but my favorite is [Название твоего проекта или ссылка]. *(пока в разработке, но скоро будет!)*
 
 **Fun Facts:**
